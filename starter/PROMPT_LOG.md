@@ -1,4 +1,5 @@
 Prompt 1
+
 Phase: Exploration
 
 Prompt name: Concept Map
