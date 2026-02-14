@@ -20,6 +20,7 @@ Notes:
 
 Cross-checked founding year and founder across Britannica and MoMA.
 
+
 Card 2: Swiss Style
 
 Claim 1
@@ -41,6 +42,7 @@ High
 Notes:
 
 Verified terminology and defining characteristics using museum and design history sources.
+
 
 Card 3: New Wave Typography
 
