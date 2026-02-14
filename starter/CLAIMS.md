@@ -8,6 +8,8 @@ Source link(s):
 
 https://www.moma.org/collection/works/189319
 
+https://www.moma.org/collection/artists/399
+
 Confidence:
 
 High
