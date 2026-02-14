@@ -1,16 +1,12 @@
 Card 1: Bauhaus
 
-Claim 1
-
 Claim:
 
-Bauhaus was founded in 1919 by Walter Gropius in Weimar, Germany.
+Bauhaus was founded in 1919 by Walter Gropius in Weimar.
 
 Source link(s):
 
-https://www.britannica.com/topic/Bauhaus
-
-https://www.moma.org/collection/terms/bauhaus
+https://www.moma.org/collection/works/189319
 
 Confidence:
 
@@ -18,22 +14,20 @@ High
 
 Notes:
 
-Cross-checked founding year and founder across Britannica and MoMA.
+Confirmed founding year and leadership through MoMA collection records.
 
 
 Card 2: Swiss Style
 
-Claim 1
-
 Claim:
 
-Swiss Style, also known as the International Typographic Style, emerged in the 1950s and emphasized grid systems and sans-serif typography.
+Swiss Style emphasized grid systems and sans-serif typography in the 1950s.
 
 Source link(s):
 
-https://www.moma.org/collection/terms/international-typographic-style
+https://www.moma.org/collection/works/7233
 
-https://www.designhistory.org/Graphic_Design_pages/Swiss.html
+https://www.moma.org/collection/works/6775
 
 Confidence:
 
@@ -41,23 +35,20 @@ High
 
 Notes:
 
-Verified terminology and defining characteristics using museum and design history sources.
+Verified through MoMA collection entries for Müller-Brockmann and Hofmann posters.
 
 
 Card 3: New Wave Typography
 
-Claim 1
-
-
 Claim:
 
-New Wave Typography developed in the 1970s as a reaction to Swiss grid systems and is associated with Wolfgang Weingart.
+April Greiman contributed to post-Swiss typographic experimentation in the late 20th century.
 
 Source link(s):
 
-https://www.moma.org/artists/6358
+https://www.cooperhewitt.org/design-topics/women-in-design/april-greiman/
 
-https://www.designhistory.org/Graphic_Design_pages/NewWave.html
+https://www.moma.org/collection/artists/2330
 
 Confidence:
 
@@ -65,10 +56,8 @@ High
 
 Notes:
 
-Verified historical timeframe and association with Weingart.
+Verified through Cooper Hewitt and MoMA artist documentation.
 
 Reflection
 
-One AI claim I didn’t trust at first and how I verified it:
-
-The AI initially described New Wave Typography as completely rejecting structure. That seemed too absolute. After reviewing museum documentation and design history sources, I confirmed that New Wave disrupted and manipulated grid systems rather than abandoning structure entirely.
+The AI initially described New Wave Typography as completely rejecting structure. After reviewing museum sources, I confirmed that designers like Greiman expanded modernist principles rather than abandoning structure entirely.
